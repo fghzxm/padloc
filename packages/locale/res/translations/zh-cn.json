@@ -1,0 +1,1574 @@
+[
+  [
+    "OK",
+    "确定"
+  ],
+  [
+    "o f f l i n e",
+    "离　线"
+  ],
+  [
+    "Could not find invite! Did you use the correct link?",
+    "未找到该邀请链接！请检查链接是否正确。"
+  ],
+  [
+    "Get Premium",
+    "升级到尊享版"
+  ],
+  [
+    "Cancel",
+    "取消"
+  ],
+  [
+    "It looks like the app cannot connect to the Padloc servers right now, probably due to a missing internet connection. You can still access your vaults and even create or edit Vault Items but your changes won't be synchronized until you're back online.",
+    "Padloc 无法连接到服务器，请检查您的网络连接。离线期间您仍然可以查看、新建、修改保管库条目，但所有改动在恢复在线之前将无法同步。"
+  ],
+  [
+    "You're Offline",
+    "您处在离线状态"
+  ],
+  [
+    "Do you want to enable biometric unlock for this device?",
+    "是否为本设备启用生物识别解锁？"
+  ],
+  [
+    "Setup",
+    "初始设置"
+  ],
+  [
+    "Biometric Unlock",
+    "生物识别解锁"
+  ],
+  [
+    "Biometric authentication failed! Canceling Setup.",
+    "生物识别认证失败！将取消设置。"
+  ],
+  [
+    "Setup Failed",
+    "设置失败"
+  ],
+  [
+    "Biometric unlock failed! Canceling Setup. (Reason: {0})",
+    "生物识别解锁失败！将取消设置。（失败原因：{0}）"
+  ],
+  [
+    "Please enter your master password!",
+    "请输入主密码！"
+  ],
+  [
+    "Enter Master Password",
+    "输入主密码"
+  ],
+  [
+    "Wrong password! Please try again!",
+    "密码错误，请重试！"
+  ],
+  [
+    "Biometric unlock activated successfully!",
+    "已成功激活生物识别解锁！"
+  ],
+  [
+    "Are you sure you want to delete this attachment?",
+    "确认删除此附件吗？"
+  ],
+  [
+    "Delete",
+    "删除"
+  ],
+  [
+    "Delete Attachment",
+    "删除附件"
+  ],
+  [
+    "Download failed!",
+    "下载失败！"
+  ],
+  [
+    "Do you want to save this file to your disk? WARNING: Doing this will leave the file exposed and unprotected on your harddrive!",
+    "是否将该文件保存到硬盘？【警告】：硬盘上的文件将以明文形式存储，任何人无需验证身份即可访问！"
+  ],
+  [
+    "Save",
+    "保存"
+  ],
+  [
+    "Save To Disk",
+    "保存到硬盘"
+  ],
+  [
+    "Edit Name",
+    "修改名称"
+  ],
+  [
+    "Attachment Name",
+    "附件名称"
+  ],
+  [
+    "Please enter an attachment name!",
+    "请输入附件名称！"
+  ],
+  [
+    "Unknown File Type",
+    "未知文件类型"
+  ],
+  [
+    "downloading... {0}/{1}",
+    "正在下载… {0}/{1}"
+  ],
+  [
+    "Unnamed",
+    "未命名"
+  ],
+  [
+    "uploading... {0}/{1}",
+    "正在上传… {0}/{1}"
+  ],
+  [
+    "Failed to upload!",
+    "上传失败！"
+  ],
+  [
+    "Failed to download! Click to try again.",
+    "下载失败！请点击重试。"
+  ],
+  [
+    "Update Billing Info",
+    ""
+  ],
+  [
+    "Select A Country",
+    ""
+  ],
+  [
+    "To update your billing info and payment method, please log in through our website (found under \"Settings\") or contact us at ",
+    "若要更新您的支付信息和方式，请登录到 Padloc 官方网站（可在“设置”页面中点击“官方网站”按钮打开）。若您遇到困难，请通过以下方式联系我们："
+  ],
+  [
+    "Payment Details",
+    "支付详情"
+  ],
+  [
+    "Billing Address",
+    ""
+  ],
+  [
+    "Billing Email",
+    ""
+  ],
+  [
+    "Name",
+    ""
+  ],
+  [
+    "Address",
+    ""
+  ],
+  [
+    "Postal Code",
+    ""
+  ],
+  [
+    "City",
+    ""
+  ],
+  [
+    "Tax Info",
+    ""
+  ],
+  [
+    "This is a business",
+    ""
+  ],
+  [
+    "Tax ID",
+    ""
+  ],
+  [
+    "Coupon Code",
+    ""
+  ],
+  [
+    "Add Later",
+    ""
+  ],
+  [
+    "Something went wrong. Please try again later!",
+    "发生错误，请稍后再试！"
+  ],
+  [
+    "Add Payment Method",
+    ""
+  ],
+  [
+    "per user / month",
+    ""
+  ],
+  [
+    "USD, billed annually",
+    ""
+  ],
+  [
+    "Try For Free",
+    "免费试用"
+  ],
+  [
+    "Please enter at least one email address!",
+    "请至少输入一个电子邮箱！"
+  ],
+  [
+    "You have entered too many email addresses! Please delete some before submitting!",
+    "输入的电子邮箱太多了，请删除一些再尝试提交！"
+  ],
+  [
+    "Some of the emails you entered appear to be invalid!",
+    "输入的电子邮箱中有的不正确！"
+  ],
+  [
+    "Something went wrong! Please try again later!",
+    "发生错误，请稍后重试！"
+  ],
+  [
+    "Invite New Members",
+    "邀请新成员"
+  ],
+  [
+    "Please enter up to {0} email addresses of the persons you would like to invite, separated by spaces or commas!",
+    "请输入要邀请的人的电子邮箱（最多 {0} 条，用空格或英文逗号分隔）！"
+  ],
+  [
+    "Enter Email Address",
+    "输入电子邮箱"
+  ],
+  [
+    "Submit",
+    "提交"
+  ],
+  [
+    "New Vault Item",
+    "新建保管库条目"
+  ],
+  [
+    "Item Name",
+    "条目名称"
+  ],
+  [
+    "Template",
+    "内容模板"
+  ],
+  [
+    "Vault",
+    "保管库"
+  ],
+  [
+    "Create & Edit",
+    "新建、修改"
+  ],
+  [
+    "You have reached the maximum number of items for this account. Upgrade to Premium to get unlimited items for your private vault!",
+    "该账号可添加的条目数已达上限，升级到尊享版立享无限量私人保管库条目！"
+  ],
+  [
+    "You have reached the maximum number of items for this account!",
+    "该账号可添加的条目数已达上限！"
+  ],
+  [
+    "Please enter an organization name!",
+    "请输入组织名称！"
+  ],
+  [
+    "Free For {0} Days",
+    "免费试用 {0} 天"
+  ],
+  [
+    "then",
+    ""
+  ],
+  [
+    "per month",
+    ""
+  ],
+  [
+    "{0} min",
+    "最少 {0} 人"
+  ],
+  [
+    "{0} max",
+    "最多 {0} 人"
+  ],
+  [
+    "Seats",
+    "人"
+  ],
+  [
+    "Add Billing Info",
+    "添加支付信息"
+  ],
+  [
+    "Create Organization",
+    "创建组织"
+  ],
+  [
+    "Organization Name",
+    "组织名称"
+  ],
+  [
+    "Create",
+    "创建"
+  ],
+  [
+    "Export Data",
+    "导出数据"
+  ],
+  [
+    "Target Vault",
+    "目标保管库"
+  ],
+  [
+    "Format",
+    "格式"
+  ],
+  [
+    "WARNING: Exporting to CSV format will save your data without encyryption of any kind which means it can be read by anyone. We strongly recommend exporting your data as a secure, encrypted file, instead!",
+    "【警告】：CSV 格式的导出文件不包含任何加密，任何人无需验证身份即可查看全部内容，强烈建议改为导出到加密容器格式！"
+  ],
+  [
+    "Export {0} Items",
+    "导出 {0} 个条目"
+  ],
+  [
+    "Please choose a password to protect this backup with!",
+    "请指定备份使用的保护密码！"
+  ],
+  [
+    "Choose Password",
+    "指定密码"
+  ],
+  [
+    "Please choose a password!",
+    "请指定密码！"
+  ],
+  [
+    "Please repeat the password!",
+    "请重复密码！"
+  ],
+  [
+    "Password not repeated correctly!",
+    "重复的密码不正确！"
+  ],
+  [
+    "Choose A Field Type",
+    "选择栏目类型"
+  ],
+  [
+    "What kind of field you would like to add?",
+    "要加一栏什么信息？"
+  ],
+  [
+    "Enter Notes Here",
+    "输入备注"
+  ],
+  [
+    "Enter Secret",
+    ""
+  ],
+  [
+    "Enter Password",
+    "输入密码"
+  ],
+  [
+    "Enter Value Here",
+    ""
+  ],
+  [
+    "Enter Field Name",
+    ""
+  ],
+  [
+    "Dash",
+    "中横线"
+  ],
+  [
+    "Underscore",
+    "下划线"
+  ],
+  [
+    "Slash",
+    "正斜线"
+  ],
+  [
+    "Space",
+    "空　格"
+  ],
+  [
+    "Generate Password",
+    "生成密码"
+  ],
+  [
+    "passphrase",
+    "西文单词组"
+  ],
+  [
+    "random string",
+    "随机字符串"
+  ],
+  [
+    "Word Separator",
+    "单词分隔符"
+  ],
+  [
+    "Language",
+    "语言"
+  ],
+  [
+    "words",
+    "个单词"
+  ],
+  [
+    "length",
+    "长度"
+  ],
+  [
+    "Use",
+    "采用"
+  ],
+  [
+    "Discard",
+    "丢弃"
+  ],
+  [
+    "Are you sure you want to delete this group?",
+    ""
+  ],
+  [
+    "Delete Group",
+    ""
+  ],
+  [
+    "Type 'DELETE' to confirm",
+    "输入 DELETE 以确认"
+  ],
+  [
+    "Enter Group Name",
+    ""
+  ],
+  [
+    "Search...",
+    "搜索…"
+  ],
+  [
+    "Import Data",
+    "导入数据"
+  ],
+  [
+    "IMPORTANT: Before importing, please make sure that your CSV data is structured according to Padlocks specific requirements!",
+    "【重要】：导入前请确认 CSV 数据的结构符合 Padloc 的要求！"
+  ],
+  [
+    "Learn More",
+    ""
+  ],
+  [
+    "Import {0} Items",
+    "导入 {0} 个条目"
+  ],
+  [
+    "This file is protected by a password.",
+    "此文件带密码保护。"
+  ],
+  [
+    "Wrong Password",
+    "密码错误"
+  ],
+  [
+    "The number of imported items exceeds your remaining quota. Upgrade to Premium to get unlimited items for your private vault!",
+    "导入的条目数量超过您的账号的剩余限额，升级到尊享版立享无限量私人保管库条目！"
+  ],
+  [
+    "The number of imported items exceeds your remaining quota.",
+    "导入的条目数量超过您的账号的剩余限额。"
+  ],
+  [
+    "Successfully imported {0} items.",
+    "成功导入了 {0} 个条目。"
+  ],
+  [
+    "This invite has expired",
+    "该邀请链接已失效"
+  ],
+  [
+    "Accepted",
+    ""
+  ],
+  [
+    "expires {0}",
+    ""
+  ],
+  [
+    "Confirm Membership",
+    ""
+  ],
+  [
+    "Organization Invite",
+    ""
+  ],
+  [
+    "Please wait for an admin to complete the process. You will be notified as soon as you receive access.",
+    ""
+  ],
+  [
+    "Enter Confirmation Code",
+    "输入验证码"
+  ],
+  [
+    "If you haven't received the confirmation code yet, please ask the organization owner to provide it to you!",
+    ""
+  ],
+  [
+    "They will also need the following confirmation code, which you should communicate to them separately:",
+    ""
+  ],
+  [
+    "Resend",
+    "重新发送"
+  ],
+  [
+    "Please enter a confirmation code!",
+    "请输入验证码！"
+  ],
+  [
+    "You have successfully accepted the invite. You'll be notified once you've been granted access.",
+    ""
+  ],
+  [
+    "Wrong confirmation code. Please try again!",
+    "验证码错误，请再试一遍！"
+  ],
+  [
+    "expired",
+    ""
+  ],
+  [
+    "accepted",
+    ""
+  ],
+  [
+    "{0}",
+    ""
+  ],
+  [
+    "Confirm",
+    ""
+  ],
+  [
+    "Confirmation Code:",
+    "验证码:"
+  ],
+  [
+    "Upgrade to Premium now and get 1GB of encrypted file storage!",
+    "升级到尊享版，立享 1GB 加密文件存储空间！"
+  ],
+  [
+    "Enter Item Name",
+    ""
+  ],
+  [
+    "Field",
+    ""
+  ],
+  [
+    "Attachment",
+    ""
+  ],
+  [
+    "Move",
+    ""
+  ],
+  [
+    "by {0}",
+    ""
+  ],
+  [
+    "Are you sure you want to delete this item?",
+    "确认删除此条目吗？"
+  ],
+  [
+    "Items with attachments cannot be moved!",
+    "带附件的条目不能转移！"
+  ],
+  [
+    "The selected file is too large! Only files of up to 5 MB are supported.",
+    "选择的文件过大，仅支持 5 MB 以内的文件！"
+  ],
+  [
+    "File uploaded successfully!",
+    "文件上传成功！"
+  ],
+  [
+    "Favorites",
+    "收藏夹"
+  ],
+  [
+    "Recently Used",
+    "最近使用"
+  ],
+  [
+    "Attachments",
+    "附件"
+  ],
+  [
+    "All Items",
+    "全部条目"
+  ],
+  [
+    "My Vault",
+    "我的保管库"
+  ],
+  [
+    "Tags",
+    "标签"
+  ],
+  [
+    "You don't have any tags yet.",
+    "您还没有添加标签。"
+  ],
+  [
+    "Your search did not match any items.",
+    "未搜索到任何匹配条目。"
+  ],
+  [
+    "This vault does not have any items yet.",
+    "该保管库还没有条目。"
+  ],
+  [
+    "You don't have any attachments yet.",
+    "您还没有添加附件。"
+  ],
+  [
+    "You don't have any favorites yet.",
+    "您还没有添加收藏。"
+  ],
+  [
+    "You don't have any recently used items!",
+    "您没有最近使用的条目！"
+  ],
+  [
+    "You don't have any items yet.",
+    "您还没有添加条目。"
+  ],
+  [
+    "Type To Search",
+    "搜索关键字"
+  ],
+  [
+    "{0} items selected",
+    "选择了 {0} 个条目"
+  ],
+  [
+    "Some items in your selection are from Vaults you don't have write access to and cannot be deleted. Do you want to proceed deleting the other items?",
+    "您选择的条目中有的所在的保管库您没有写入权限，因此不能删除。您仍然要删除其他条目吗？"
+  ],
+  [
+    "Yes",
+    "是"
+  ],
+  [
+    "No",
+    "否"
+  ],
+  [
+    "Are you sure you want to delete these items? This action can not be undone!",
+    "确认删除这些条目吗？该操作无法撤销！"
+  ],
+  [
+    "Delete {0} Items",
+    "删除 {0} 个条目"
+  ],
+  [
+    "Some items in your selection have attachments and cannot be moved. Do you want to proceed moving the other items?",
+    "您选择的条目中有的带有附件，因此不能转移。您仍然要转移其他条目吗？"
+  ],
+  [
+    "Some items in your selection are from Vaults you don't have write access to and cannot be moved. Do you want to proceed moving the other items?",
+    "您选择的条目中有的所在的保管库您没有写入权限，因此不能转移。您仍然要删除其他条目吗？"
+  ],
+  [
+    "No Name",
+    "未命名"
+  ],
+  [
+    "copied",
+    ""
+  ],
+  [
+    "No Fields",
+    "无栏目"
+  ],
+  [
+    "This item has no fields.",
+    "该条目没有栏目。"
+  ],
+  [
+    "Email Address",
+    "电子邮箱"
+  ],
+  [
+    "Master Password",
+    "主密码"
+  ],
+  [
+    "Login",
+    "登录"
+  ],
+  [
+    "New to Padloc?",
+    "头一回用 Padloc？"
+  ],
+  [
+    "Sign Up Now",
+    "立即注册"
+  ],
+  [
+    "Please enter a valid email address!",
+    "请输入正确的电子邮箱！"
+  ],
+  [
+    "Please enter the confirmation code sent to your email address to proceed!",
+    "请先输入发送到您电子邮箱中的验证码！"
+  ],
+  [
+    "One Last Step!",
+    "还差一步！"
+  ],
+  [
+    "Enter Verification Code",
+    "输入验证码"
+  ],
+  [
+    "Maximum number of tries exceeded! Please resubmit and try again!",
+    "尝试次数已超过上限，请重新提交再试！"
+  ],
+  [
+    "Wrong username or password. Please try again!",
+    "用户名或密码错误，请再试一遍！"
+  ],
+  [
+    "Can't remember your master password?",
+    "记不住主密码了？"
+  ],
+  [
+    "Recover Account",
+    "恢复账号"
+  ],
+  [
+    "Try Again",
+    "再试一遍"
+  ],
+  [
+    "An account with this email address does not exist!",
+    "不存在用该电子邮箱注册的账号！"
+  ],
+  [
+    "Sign Up",
+    "注册"
+  ],
+  [
+    "Remove",
+    ""
+  ],
+  [
+    "Suspend",
+    ""
+  ],
+  [
+    "Remove Admin",
+    ""
+  ],
+  [
+    "Make Admin",
+    ""
+  ],
+  [
+    "Are you sure you want to remove this member from this organization?",
+    ""
+  ],
+  [
+    "Remove Member",
+    ""
+  ],
+  [
+    "Are you sure you want to make this member an admin? Admins can manage vaults, groups and permissions.",
+    ""
+  ],
+  [
+    "Are you sure you want to remove this member as admin?",
+    ""
+  ],
+  [
+    "Are you sure you want to suspend this member?",
+    ""
+  ],
+  [
+    "Suspend Member",
+    ""
+  ],
+  [
+    "Groups",
+    ""
+  ],
+  [
+    "Vaults",
+    "保管库"
+  ],
+  [
+    "read",
+    ""
+  ],
+  [
+    "write",
+    ""
+  ],
+  [
+    "Owner",
+    ""
+  ],
+  [
+    "Admin",
+    ""
+  ],
+  [
+    "Suspended",
+    ""
+  ],
+  [
+    "Items",
+    ""
+  ],
+  [
+    "Orgs & Teams",
+    ""
+  ],
+  [
+    "New Organization",
+    ""
+  ],
+  [
+    "Settings",
+    ""
+  ],
+  [
+    "{0} Items",
+    ""
+  ],
+  [
+    "Move {0} To",
+    ""
+  ],
+  [
+    "No target vaults available!",
+    ""
+  ],
+  [
+    "Move Item",
+    ""
+  ],
+  [
+    "Move Items",
+    ""
+  ],
+  [
+    "Successfully created {0} invites!",
+    ""
+  ],
+  [
+    "Unsuspend",
+    ""
+  ],
+  [
+    "Are you sure you want to delete this organization? All associated vaults and the data within them will be lost! This action can not be undone.",
+    ""
+  ],
+  [
+    "Delete Organization",
+    ""
+  ],
+  [
+    "Rename Organization",
+    ""
+  ],
+  [
+    "Company Name",
+    ""
+  ],
+  [
+    "Please enter a name!",
+    ""
+  ],
+  [
+    "Do you want to rotate this organizations cryptographic keys? All organization memberships will have to be reconfirmed but no data will be lost.",
+    ""
+  ],
+  [
+    "The organizations cryptographic keys have been rotated successfully and membership confirmation requests for all members have been sent out.",
+    ""
+  ],
+  [
+    "Members",
+    ""
+  ],
+  [
+    "This organization currently does not have an active subscription and has been put in \"frozen\" state as a result. While in this state, you won't be able to make any changes to members, groups or vaults of this organization.",
+    ""
+  ],
+  [
+    "Update Subscription",
+    ""
+  ],
+  [
+    "New Group",
+    ""
+  ],
+  [
+    "New Vault",
+    "新建保管库"
+  ],
+  [
+    "Subscription",
+    ""
+  ],
+  [
+    "Billing Info",
+    ""
+  ],
+  [
+    "Security",
+    ""
+  ],
+  [
+    "Rotate Cryptographic Keys",
+    ""
+  ],
+  [
+    "General",
+    ""
+  ],
+  [
+    "Change Organization Name",
+    ""
+  ],
+  [
+    "Organizations allow you to securely share passwords, documents and other data within your family, team or any other kind of group!",
+    ""
+  ],
+  [
+    "Start Trial",
+    "立即试用"
+  ],
+  [
+    "Scan QR Code",
+    "扫描二维码"
+  ],
+  [
+    "Failed to scan QR code. Error: ",
+    "扫描二维码失败，发生错误："
+  ],
+  [
+    "Please enter your email address and new master password.",
+    "请输入您的电子邮箱和新的主密码。"
+  ],
+  [
+    "New Master Password",
+    "新的主密码"
+  ],
+  [
+    "WARNING: Weak Password!",
+    "【警告】：密码强度过低！"
+  ],
+  [
+    "Repeat Master Password",
+    "重复主密码"
+  ],
+  [
+    "IMPORTANT, READ CAREFULLY: Padloc is designed in a way that makes it impossible for us to access the data encrypted in any of your vaults even if we wanted to. While this is essential to ensuring the security of your data, it also has the following implications:",
+    ""
+  ],
+  [
+    "Any data stored in your private vault can not be recovered and will be permantently lost.",
+    "您将永久失去私人保管库中的全部数据，无法恢复。"
+  ],
+  [
+    "All your organization memberships will be suspended temporarily until confirmed by the organization owner.",
+    ""
+  ],
+  [
+    "All members of organizations you own will be suspended temporarily until confirmed by you.",
+    ""
+  ],
+  [
+    "Please enter a master password!",
+    "请输入您想使用的主密码！"
+  ],
+  [
+    "You didn't repeat your master password correctly. Try again!",
+    "您两次输入的密码不一致，请确认您把密码输入对了再试一遍！"
+  ],
+  [
+    "The password you entered is weak which makes it easier for attackers to break the encryption used to protect your data. Try to use a longer password or include a variation of uppercase, lowercase and special characters as well as numbers!",
+    "您输入的密码强度过低，攻击者很容易破解加密，读取您的秘密数据。请增加密码长度，或者用大小写字母、数字、符号混合组成密码！"
+  ],
+  [
+    "Choose Different Password",
+    "换个密码"
+  ],
+  [
+    "Use Anyway",
+    "我偏要用"
+  ],
+  [
+    "WARNING: Weak Password",
+    "【警告】：密码强度过低"
+  ],
+  [
+    "To complete the account recovery process, please enter the confirmation code sent to your email address!",
+    "请打开您的电子邮箱，查收我们发送的邮件，输入其中的验证码以完成账号恢复！"
+  ],
+  [
+    "Account recovery successful!",
+    "账号恢复成功！"
+  ],
+  [
+    "Report Errors",
+    "报告错误"
+  ],
+  [
+    "{0} Errors Detected",
+    "检测到 {0} 个错误"
+  ],
+  [
+    "Padloc has registered {0} errors during your use of the app. These errors may not have any impact on functionality and can often be ignored, but reporting them may help us diagnose problems, identify possible failure modes and generally improve the stability of the app.",
+    "Padloc 在您使用期间检测到发生了 {0} 个错误。这些错误可能并不影响功能的正常使用，您可以选择忽略，但我们诚挚希望您将错误报告分享给我们，这将帮助我们分析问题发生的原因，识别软件中可能存在的缺陷，从而帮助我们整体改善应用的稳定性。"
+  ],
+  [
+    "Profile",
+    "个人信息"
+  ],
+  [
+    "Log Out",
+    "登出账号"
+  ],
+  [
+    "Change Master Password",
+    "更改主密码"
+  ],
+  [
+    "Auto Lock",
+    "自动锁定"
+  ],
+  [
+    "Lock Automatically",
+    "无操作自动锁定"
+  ],
+  [
+    " min",
+    " 分钟"
+  ],
+  [
+    "After",
+    "等待时长"
+  ],
+  [
+    "Enable Biometric Unlock",
+    "启用生物识别解锁"
+  ],
+  [
+    "Import / Export",
+    "导入 / 导出"
+  ],
+  [
+    "Import...",
+    "导入…"
+  ],
+  [
+    "Export...",
+    "导出…"
+  ],
+  [
+    "Support",
+    "用户支持"
+  ],
+  [
+    "Website",
+    "官方网站"
+  ],
+  [
+    "Contact Support",
+    "联系客服"
+  ],
+  [
+    "Danger Zone",
+    "危险操作"
+  ],
+  [
+    "Delete Account",
+    "删除账号"
+  ],
+  [
+    "Edit Profile",
+    "编辑个人信息"
+  ],
+  [
+    "Do you really want to log out?",
+    "确认登出当前账号吗？"
+  ],
+  [
+    "Please enter your current password!",
+    "请输入当前密码！"
+  ],
+  [
+    "Enter Current Password",
+    "输入当前密码"
+  ],
+  [
+    "Now choose a new master password!",
+    "指定新的主密码！"
+  ],
+  [
+    "Enter New Password",
+    "输入新密码"
+  ],
+  [
+    "Please enter a password!",
+    "请输入要使用的新密码！"
+  ],
+  [
+    "Please confirm your new password!",
+    "请确认新密码！"
+  ],
+  [
+    "Repeat New Password",
+    "重复新密码"
+  ],
+  [
+    "Master password changed successfully.",
+    "更改主密码成功。"
+  ],
+  [
+    "Please enter your master password to proceed.",
+    "要进一步操作，请输入主密码。"
+  ],
+  [
+    "Are you sure you want to delete this account? All associated vaults and the data within them will be lost and any active subscriptions will be canceled immediately. This action can not be undone!",
+    "确定要删除该账号吗？删除账号后，任何与该账号关联的保管库及其储存的数据将全部丢失，所有自动续费将立即取消，该操作不可撤销！"
+  ],
+  [
+    "Are you sure you want to disable biometric unlock?",
+    "确定要禁用生物识别解锁吗？"
+  ],
+  [
+    "Welcome to Padloc! Let's get you started by creating an account for you.",
+    "欢迎使用 Padloc！第一步，先创建个账号吧。"
+  ],
+  [
+    "Your email address serves as your username and allows us to get in touch with you. Don't worry, we would never send you any spam!",
+    "电子邮箱既是您的用户名，又是您的联系方式。Padloc 从来不给任何人发垃圾邮件，敬请放心！"
+  ],
+  [
+    "Your Name",
+    "您的姓名"
+  ],
+  [
+    "What should we call you?",
+    "您叫什么？"
+  ],
+  [
+    "Continue",
+    "继续"
+  ],
+  [
+    "Already have an account?",
+    "已有账号？"
+  ],
+  [
+    "Sign In",
+    "登录"
+  ],
+  [
+    "You've Got Mail!",
+    "看看邮箱！"
+  ],
+  [
+    "To verify your email address, please enter the confirmation code we sent to {0}.",
+    "请打开 {0} 查收邮件，输入其中的验证码以完成电子邮箱验证。"
+  ],
+  [
+    "Confirmation Code",
+    "验证码"
+  ],
+  [
+    "Say hello to your",
+    ""
+  ],
+  [
+    "It's the last password you'll ever have to remember! Please memorize it and never reveal it to anyone (not even us)! We recommend writing it down on a piece of paper and storing it somewhere safe, at least until you have it safely memorized.",
+    "您唯一需要记的就只有这一个密码，请务必牢记在心，永远不要透露给任何人！（连 Padloc 的工作人员也不行！）建议您把密码记到纸上，保存在安全的地方，至少在把密码倒背如流之前请不要丢失。"
+  ],
+  [
+    "[Tap To Reveal]",
+    "【点击显示】"
+  ],
+  [
+    "[Hover To Reveal]",
+    "【悬停鼠标显示】"
+  ],
+  [
+    "This random passphrase was generated just for you and is designed to be both secure and easy to remember. Don't like it?",
+    ""
+  ],
+  [
+    "Try Another One",
+    "换个别的"
+  ],
+  [
+    "Choose Your Own",
+    "自己指定"
+  ],
+  [
+    "An account with this email address already exists!",
+    "这个电子邮箱已经注册了账号！"
+  ],
+  [
+    "Change Email",
+    "更改邮箱"
+  ],
+  [
+    "We recommend using a randomly generated password that is both strong and easy to remember.",
+    "建议使用随机生成的、容易记住的强密码。"
+  ],
+  [
+    "Keep This One",
+    "就用这个"
+  ],
+  [
+    "Generate Another",
+    "换个别的"
+  ],
+  [
+    "Choose My Own",
+    "自己指定"
+  ],
+  [
+    "Want A Different Master Password?",
+    "要用别的密码作为主密码吗？"
+  ],
+  [
+    "Choose Own Master Password",
+    "自行指定主密码"
+  ],
+  [
+    "Resume Subscription",
+    ""
+  ],
+  [
+    "Cancel Subscription",
+    ""
+  ],
+  [
+    "Update Plan",
+    ""
+  ],
+  [
+    "Are you sure you want to downgrade to the Free Plan?",
+    ""
+  ],
+  [
+    "Downgrade",
+    ""
+  ],
+  [
+    "No Plan Selected",
+    ""
+  ],
+  [
+    "Unlimited",
+    ""
+  ],
+  [
+    "{0} / Year",
+    ""
+  ],
+  [
+    "Canceled ({0} days left)",
+    "续费关闭（还剩 {0} 天）"
+  ],
+  [
+    "Authentication Required",
+    ""
+  ],
+  [
+    "Inactive",
+    ""
+  ],
+  [
+    "Trialing ({0} days left)",
+    "正在试用（还剩 {0} 天）"
+  ],
+  [
+    "Choose Plan",
+    ""
+  ],
+  [
+    "Complete Payment",
+    ""
+  ],
+  [
+    "Downgrade To Free Plan",
+    ""
+  ],
+  [
+    "Add Tag",
+    "添加标签"
+  ],
+  [
+    "Choose A Template",
+    ""
+  ],
+  [
+    "What kind of item you would like to add?",
+    "要新建什么条目？"
+  ],
+  [
+    "Invalid Code",
+    ""
+  ],
+  [
+    "Logged In As",
+    "当前账号"
+  ],
+  [
+    "Unlock",
+    "解锁"
+  ],
+  [
+    "Wrong password! Please try again.",
+    "密码错误，请重试！"
+  ],
+  [
+    "Logout / Switch Account",
+    "登出 / 切换账号"
+  ],
+  [
+    "Forgot Password",
+    "我把密码忘了"
+  ],
+  [
+    "Are you sure you want to log out of this account?",
+    "确认登出当前账号吗？"
+  ],
+  [
+    "Biometric unlock expired. Complete setup to reeneable.",
+    "生物识别解锁已失效，请重新设置。"
+  ],
+  [
+    "Biometric unlock failed! Reason: {0}",
+    "生物识别解锁失败！失败原因：{0}"
+  ],
+  [
+    "Failed To Unlock",
+    "解锁失败"
+  ],
+  [
+    "Update",
+    "更新"
+  ],
+  [
+    "Storage limit exceeded!",
+    "剩余存储空间不足！"
+  ],
+  [
+    "Upload failed! Please try again!",
+    "更新失败，请重试！"
+  ],
+  [
+    "Upload Attachment",
+    "上传附件"
+  ],
+  [
+    "Unkown File Type",
+    "未知文件类型"
+  ],
+  [
+    "Retry Upload",
+    "再试一遍"
+  ],
+  [
+    "Upload",
+    "上传"
+  ],
+  [
+    "Are you sure you want to delete this vault? All the data stored in it will be lost! This action can not be undone.",
+    "确认删除此保管库吗？该保管库中存储的全部数据将永久丢失，无法撤销！"
+  ],
+  [
+    "Delete Vault",
+    "删除保管库"
+  ],
+  [
+    "Enter Vault Name",
+    "输入保管库名称"
+  ],
+  [
+    "Username",
+    "用户名"
+  ],
+  [
+    "Password",
+    "密码"
+  ],
+  [
+    "URL",
+    "网址"
+  ],
+  [
+    "Notes",
+    "备注"
+  ],
+  [
+    "Your session has expired. Please log in again!",
+    "会话已过期，请重新登录！"
+  ],
+  [
+    "A new update is ready to install! Do you want to install it now?",
+    "发现新版本！现在就更新吗？"
+  ],
+  [
+    "Install & Reload",
+    "安装并重新打开 Padlock"
+  ],
+  [
+    "Later",
+    "等会再说"
+  ],
+  [
+    "Date",
+    "日期"
+  ],
+  [
+    "Month",
+    "年月"
+  ],
+  [
+    "Credit Card Number",
+    "信用卡号"
+  ],
+  [
+    "Phone Number",
+    "电话号码"
+  ],
+  [
+    "PIN",
+    "数字密码"
+  ],
+  [
+    "Two-Factor Token",
+    ""
+  ],
+  [
+    "Note",
+    "备注"
+  ],
+  [
+    "Other",
+    "其他"
+  ],
+  [
+    "Credit Card",
+    "信用卡"
+  ],
+  [
+    "Card Number",
+    ""
+  ],
+  [
+    "Card Owner",
+    ""
+  ],
+  [
+    "Valid Until",
+    ""
+  ],
+  [
+    "CVC",
+    ""
+  ],
+  [
+    "Bank Account",
+    ""
+  ],
+  [
+    "Account Owner",
+    ""
+  ],
+  [
+    "IBAN",
+    ""
+  ],
+  [
+    "BIC",
+    ""
+  ],
+  [
+    "Card PIN",
+    ""
+  ],
+  [
+    "WIFI Password",
+    "无线密码"
+  ],
+  [
+    "Passport",
+    "护照"
+  ],
+  [
+    "Full Name",
+    ""
+  ],
+  [
+    "Passport Number",
+    ""
+  ],
+  [
+    "Country",
+    ""
+  ],
+  [
+    "Birthdate",
+    ""
+  ],
+  [
+    "Birthplace",
+    ""
+  ],
+  [
+    "Issued On",
+    ""
+  ],
+  [
+    "Expires",
+    ""
+  ],
+  [
+    "Document",
+    "文档"
+  ],
+  [
+    "Custom",
+    "自定义"
+  ],
+  [
+    "{0} on {1}",
+    "{1} 上的 {0}"
+  ],
+  [
+    "{0} Device",
+    "{0} 设备"
+  ]
+]
